@@ -1,0 +1,21 @@
+# Configuration for Twitch Translator Script
+# Please follow the instructions below to configure the script. Ensure that the configs are stored on the line directly underneath the example lines.
+
+# Client ID: Obtain this from your Twitch Developer Console under your app's settings.
+# Example: abcd1234efgh5678ijkl9012mnop3456
+
+
+# Client Secret: Obtain this from your Twitch Developer Console under your app's settings.
+# Example: xyz123abc456def789ghi012jkl345mn
+
+
+# Redirect URI: Ensure this matches the redirect URI set in your Twitch Developer Console.
+# Example: http://localhost:8080/
+
+
+# Target channel: input the full twitch.tv link for the target channel.
+# Example: https://www.twitch.tv/yukifukumaru
+
+
+# Target language: input the target language to translate to. Use ISO 639-1 language codes. See https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes for more codes.
+# Example: en
